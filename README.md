@@ -1,5 +1,5 @@
-<h1 align="center"><b>Hi , I'm Malindu Pabasara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br>
-<h3 align="center" color="purple">Passionate Tech Enthusiast about programming and web technologies</h3>
+<h1 align="center"><b>Hi , I'm Malindu Pabasara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center" color="purple">Passionate Tech Enthusiast about programming and web technologies</h3><br>
 
  🌱 Learning 🧑‍💻 **Java, Mern Stack Developing**
 
