@@ -6,9 +6,7 @@
  👨‍💻Reach my Projects via 🔗-  [https://github.com/Malindup2](https://github.com/Malindup2)
 
  📫 Catch me 😎 **malindupabasara22@gmail.com**
-  <center>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  </center>
+ 
 
   <p align="center">
   <!--- stats (start) -->
@@ -59,5 +57,3 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malindupabasara22&show_icons=true&locale=en&layout=compact" alt="malindupabasara22" /></p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
