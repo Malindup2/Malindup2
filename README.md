@@ -55,5 +55,5 @@
 <a href="https://discord.gg/malindu_p" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malindupabasara22&show_icons=true&locale=en&layout=compact" alt="malindupabasara22" /></p>
+
 
