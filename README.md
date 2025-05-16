@@ -30,7 +30,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,c,cpp,css,github,html,java,js,kotlin,mongodb,mysql,nextjs,spring,ts,postman,py,react,nodejs,expressjs,tailwind,figma,androidstudio,c,postman,eclipse,r,vscode,visualstudio,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,c,cpp,css,github,html,java,js,kotlin,mongodb,mysql,nextjs,spring,ts,postman,py,react,nodejs,expressjs,tailwind,figma,androidstudio,c,postman,eclipse,r,vscode,visualstudio&perline=14" />
   </a>
 </p>
 
