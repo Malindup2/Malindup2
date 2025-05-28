@@ -25,20 +25,14 @@
 
 <div align="center">
 
-### Programming Languages
+### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,c,kotlin,r&theme=dark" />
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,figma&theme=dark" />
-
-### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,spring&theme=dark" />
-
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-
-### Development Tools
+### 🔧 Development Tools & Software
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,eclipse,postman,linux&theme=dark" />
+
+### 🌐 Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,nodejs,expressjs,spring,mongodb,mysql,figma&theme=dark" />
 
 </div>
 
