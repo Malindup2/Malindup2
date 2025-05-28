@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi there, I'm **Malindu Pabasara**
-### 🚀 Passionate Tech Enthusiast | Full-Stack Developer | Web Technologies Explorer
+### 🚀 Passionate Tech Enthusiast | Full-Stack Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 
@@ -45,28 +45,10 @@
 
 ---
 
-## 🌟 What I'm Up To
-
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Learning **advanced React patterns** and **cloud technologies**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, programming, or tech in general**
-- ⚡ Fun fact: I love exploring new technologies and solving complex problems
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malindup2&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malindup2&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
@@ -82,13 +64,6 @@
 
 </div>
 
----
-
 <div align="center">
-  
-### 💝 Thanks for visiting my profile! 
-### ⭐ Feel free to star any repositories you find interesting!
-
 <img src="https://komarev.com/ghpvc/?username=Malindup2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
 </div>
