@@ -1,52 +1,94 @@
-<h1 align="center"><b>Hi , I'm Malindu Pabasara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center" color="purple">Passionate Tech Enthusiast about programming and web technologies</h3><br>
-
-  <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<div align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Malindup2&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Malindup2&theme=dark&hide_border=false" /> 
-</td>
+# 👋 Hi there, I'm **Malindu Pabasara**
+### 🚀 Passionate Tech Enthusiast | Full-Stack Developer | Web Technologies Explorer
 
-<td width="50%" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malindup2&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-  
-  </td>
-</tr>
-</table>
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<br>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,c,cpp,css,github,html,java,js,kotlin,mongodb,mysql,nextjs,spring,ts,postman,py,react,nodejs,expressjs,tailwind,figma,androidstudio,c,postman,eclipse,r,vscode,visualstudio&perline=14" />
-  </a>
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
 </div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/malindu-pabasara-887315261/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/malindu_p" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/malindu_p2/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discord.gg/malindu_p" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malindup2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malindup2&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malindup2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,c,kotlin,r&theme=dark" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,figma&theme=dark" />
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,spring&theme=dark" />
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,eclipse,postman,linux&theme=dark" />
+
+</div>
+
+---
+
+## 🌟 What I'm Up To
+
+- 🔭 Currently working on **full-stack web applications**
+- 🌱 Learning **advanced React patterns** and **cloud technologies**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **web development, programming, or tech in general**
+- ⚡ Fun fact: I love exploring new technologies and solving complex problems
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malindup2&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Malindup2&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malindu-pabasara-887315261/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/malindu_p)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/malindu_p2/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/malindu_p)
+
+</div>
+
+---
+
+<div align="center">
   
-</p>
+### 💝 Thanks for visiting my profile! 
+### ⭐ Feel free to star any repositories you find interesting!
 
+<img src="https://komarev.com/ghpvc/?username=Malindup2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
+</div>
