@@ -24,16 +24,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,c,kotlin,r&theme=dark" />
-
-### 🔧 Development Tools & Software
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,eclipse,postman,linux&theme=dark" />
-
-### 🌐 Frameworks & Technologies
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,nodejs,expressjs,spring,mongodb,mysql,figma&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,c,kotlin,html,css,react,nodejs,expressjs,spring,mongodb,mysql,git,github,vscode,linux,figma&theme=dark" />
 </div>
 
 ---
