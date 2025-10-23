@@ -29,14 +29,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malindup2&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
